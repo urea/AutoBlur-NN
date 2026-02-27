@@ -1,3 +1,0 @@
-# AutoMosaic 修正内容確認 (Phase 1: CLI Core)
-... (中略) ...
-詳細は brain フォルダの walkthrough.md を参照。

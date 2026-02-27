@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Build and Distribution
+build/
+dist/
+*.spec
+
+# User Data
+Data/
+output/
+*_output/
+
+# IDE
+.vscode/
+.idea/
+.gemini/
+
+# AI Models (already included in build but keep src clean)
+*.onnx

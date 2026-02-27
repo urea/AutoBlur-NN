@@ -21,6 +21,15 @@ AI（深層学習モデル）が各部位を正確に識別。「乳首はOK、�
 
 ---
 
+## 📥 ダウンロード (Download)
+
+Windows用の実行ファイル（exe）は、以下のリンクからダウンロードできます。
+インストール不要、解凍するだけで即座に使用可能です。
+
+👉 **[AutoBlur-NN v1.0.0 をダウンロード](https://github.com/urea/AutoBlur-NN/releases/download/v1.0.0/AutoBlur-NN_v1.0.0.zip)**
+
+---
+
 ## � 使い方 (How to Use)
 
 AutoBlur-NN の操作は非常にシンプルです。
